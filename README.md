@@ -1,5 +1,5 @@
 # password-checker
-'![Local Image](images/privacy.jpg)'
+![Local Image](images/privacy.jpg)
 
 This script checks if passwords provided in a file have been compromised using the Pwned Passwords API. It hashes the passwords and queries the API to find if the hash exists in the list of compromised passwords.
 
